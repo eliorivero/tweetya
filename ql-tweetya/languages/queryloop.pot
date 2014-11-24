@@ -1,0 +1,38 @@
+# Copyright (C) 2014 TweetYa
+# This file is distributed under the same license as the TweetYa package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TweetYa 0.0.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/ql-tweetya\n"
+"POT-Creation-Date: 2014-11-24 16:01:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-11-24 13:07-0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: ql-tweetya.php:25
+msgid "Comparte!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TweetYa"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://queryloop.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Tweetea el título del post y la URL."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Elio Rivero"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://twitter.com/eliorivero"
+msgstr ""
